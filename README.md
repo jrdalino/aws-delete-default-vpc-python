@@ -11,3 +11,6 @@ $ source venv/bin/activate
 (venv) $ deactivate # To deactivate
 $ python main.py
 ```
+
+## References
+- Source code copied from https://github.com/davidobrien1985/delete-aws-default-vpc
