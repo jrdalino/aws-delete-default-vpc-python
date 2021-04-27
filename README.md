@@ -8,8 +8,8 @@ $ cd ~/environment/aws-delete-default-vpc-python
 $ python3 -m venv venv
 $ source venv/bin/activate
 (venv) $ venv/bin/pip install boto3
+(venv) $ python main.py
 (venv) $ deactivate # To deactivate
-$ python main.py
 ```
 
 ## References
